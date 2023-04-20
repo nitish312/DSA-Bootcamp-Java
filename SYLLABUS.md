@@ -119,20 +119,20 @@
     - [Vector Class](https://youtu.be/9ogGan-R1pc?t=668)
     - [Lambda Expression](https://youtu.be/OY2lPr8h93U?t=2894) 
     - [Enums](https://youtu.be/9ogGan-R1pc?t=909)
-- Linked List
+- [Linked List](https://youtu.be/58YbpRDc4yw)
     - [Introduction](https://youtu.be/58YbpRDc4yw)
     - [Singly + Doubly + Circular LinkedList](https://youtu.be/58YbpRDc4yw)
     - [Fast and slow pointer](https://youtu.be/70tx7KcMROc)
     - [Cycle Detection](https://youtu.be/70tx7KcMROc)
     - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
-- Stacks & Queues
-    - Introduction
-    - Interview problems
-    - Push efficient
-    - Pop efficient
-    - Queue using Stack and Vice versa
-    - Circular Queue
+- [Stacks & Queues](https://youtu.be/rHQI4mrJ3cg)
+    - [Introduction](https://youtu.be/rHQI4mrJ3cg)
+    - [Interview problems](https://youtu.be/S9LUYztYLu4)
+    - [Push efficient](https://youtu.be/rHQI4mrJ3cg&t=1922)
+    - [Pop efficient](https://youtu.be/rHQI4mrJ3cg&t=1922)
+    - [Queue using Stack and Vice versa](https://youtu.be/S9LUYztYLu4&t=470)
+    - [Circular Queue](https://youtu.be/rHQI4mrJ3cg&t=4019)
 - Trees
     - Introduction
     - Binary Trees
